@@ -170,6 +170,11 @@ section h1{
     justify-content: space-around;
     align-items: center;
     gap: 30px;
+    background-image: radial-gradient(
+        circle,
+        rgb(255, 255, 255),
+        rgba(118, 206, 0, 50)
+    );
     background-color: #76ce00;
 }
 
@@ -179,6 +184,7 @@ section h1{
     padding: 10px;
     font-size: 25px;
 }
+
 
 .fotos__grilla{
     padding: 0px;
